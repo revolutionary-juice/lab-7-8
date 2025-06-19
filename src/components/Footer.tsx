@@ -14,7 +14,7 @@ const Footer = () => {
                     {"© Яковлев Кирилл Андреевич, Б9122-09.03.04(6)"}
                 </Typography>
                 <Typography variant="body2" color="white">
-                    <Link href="https://github.com/N1Fex" color="#FFF">
+                    <Link href="https://github.com/revolutionary-juice" color="#FFF">
                         Контакты
                     </Link>{" "}
                     {" | 2024–2025"}
